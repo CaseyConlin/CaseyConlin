@@ -1,4 +1,4 @@
-<img src="./hiyabuddypostit.jpg" width="200" height="auto" alt="Hiya, Buddy text with one-armed hot dog from the office."/>
+<img src="./hiyabuddypostit.jpg" width="150" height="auto" alt="Hiya, Buddy text with one-armed hot dog from the office."/>
 
 ## About Me
 <p>:coffee: As an experienced Front End Developer, I’m comfortable working up and down the stack from HTML elements, CSS, Sass, CSS-in-JS frameworks, and React to server side development with Node.js, Express, Mongoose and Vim, and I’m always interested in learning something new. In my work in nonprofits and agencies, I've made a positive impact through intuitive, accessible user experiences powered by clean and efficient code, and I create supportive work environments where teams can thrive and do their best work and manage projects in a way that allows us to meet our goals.</p>

@@ -1,8 +1,9 @@
-### Hi there 👋
+### 👋 Hi! 
 
 
 ## About Me
-<p>As an experienced Front End Developer, I’m comfortable working up and down the stack from HTML elements, CSS, Sass, CSS-in-JS frameworks, and React to server side development with Node.js, Express, Mongoose and Vim, and I’m always interested in learning something new. In my work in nonprofits and agencies, I've made a positive impact through intuitive, accessible user experiences powered by clean and efficient code, and I create supportive work environments where teams can thrive and do their best work and manage projects in a way that allows us to meet our goals.</p>
+<p>:coffee: As an experienced Front End Developer, I’m comfortable working up and down the stack from HTML elements, CSS, Sass, CSS-in-JS frameworks, and React to server side development with Node.js, Express, Mongoose and Vim, and I’m always interested in learning something new. In my work in nonprofits and agencies, I've made a positive impact through intuitive, accessible user experiences powered by clean and efficient code, and I create supportive work environments where teams can thrive and do their best work and manage projects in a way that allows us to meet our goals.</p>
+<p>:surfer: I love programming, but when I'm not at a computer, I like to ride bikes and spend time with my family including our many pets. </p>
 
 <br />
 
@@ -38,6 +39,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" height="60" />
 </div>
+
+<br />
 
 ## Reach Out
 <a href="https://www.linkedin.com/in/caseyconlin/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
